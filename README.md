@@ -23,7 +23,7 @@ A .NET 8 console application that monitors system resources with plugin support.
    Visual Studio 2022 (recommended)
 2. **Steps**:
    ```bash
-   git clone 
+   git clone https://github.com/biradarniriksha/ScoutMonitor.git
 3. Open `ScoutMonitor.sln` in Visual Studio 2022
 4. Set `ScoutMonitor` as the startup project
 5. Make sure `appsettings.json` has the correct values
