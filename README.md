@@ -28,5 +28,5 @@ A .NET 8 console application that monitors system resources with plugin support.
 4. Set `ScoutMonitor` as the startup project
 5. Make sure `appsettings.json` has the correct values
 6. run:
-   In VS: Press F5
+   In VS: Press ,
    CLI: dotnet run --project ScoutMonitor
